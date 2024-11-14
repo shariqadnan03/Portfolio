@@ -283,7 +283,7 @@ section {
   display: flex;
 }
 
-.about-pic {
+.about {
   border-radius: 2rem;
 }
 
@@ -430,4 +430,3 @@ footer {
 footer p {
   text-align: center;
 }
-
